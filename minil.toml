@@ -1,0 +1,6 @@
+name = "Geography-NationalGrid"
+# badges = ["travis"]
+authority="cpan:MCCHEUNG"
+
+module_maker="ModuleBuildTiny"
+
